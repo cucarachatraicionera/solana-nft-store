@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.log
+
+# NO SUBIR LLAVES NI ENVS
+.env*
+!.env.example
+**/deployer.json
+**/buyer.json
+**/keys/
+**/sugar.log
+
+.DS_Store
+.cache/
