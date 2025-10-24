@@ -1,0 +1,21 @@
+{
+  "price": 0.0,
+  "number": 4,
+  "symbol": "MI",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "retainAuthority": true,
+  "isSequential": false,
+  "creators": [
+    { "address": "5G1gjvthaxUZgxEDSnP9mfFP7TUAMcaAh7Sde4D7ai2f", "share": 100 }
+  ],
+  "ruleSet": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "guards": {
+    "default": {
+      "botTax": { "lamports": 10000000, "lastInstruction": true },
+      "solPayment": { "lamports": 100000000, "destination": "7V75SBLuASmeqW24hSEYpxTkGHhMQK7UTGCJ1jVwqyyE" }
+    }
+  }
+}

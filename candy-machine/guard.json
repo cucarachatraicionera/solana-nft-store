@@ -1,0 +1,10 @@
+{
+  "default": {
+    "botTax": { "lamports": 10000000, "lastInstruction": true },
+    "solPayment": {
+      "lamports": 100000000,
+      "destination": "7V75SBLuASmeqW24hSEYpxTkGHhMQK7UTGCJ1jVwqyyE"
+    }
+  },
+  "groups": []
+}

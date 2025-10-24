@@ -1,0 +1,14 @@
+{
+  "price": 0,
+  "number": 4,
+  "symbol": "MI",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "retainAuthority": true,
+  "isSequential": false,
+  "creators": [
+    { "address": "5G1gjvthaxUZgxEDSnP9mfFP7TUAMcaAh7Sde4D7ai2f", "share": 100 }
+  ],
+  "ruleSet": null,
+  "hiddenSettings": null
+}

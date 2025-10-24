@@ -1,0 +1,50 @@
+{
+  "program": {
+    "candyMachine": "Dt9jDgvRGTz9Ttw46xtuE4C5MWysugxy6hZQdN4gF7mw",
+    "candyGuard": "",
+    "candyMachineCreator": "Bmhkd1fjhLJg7C4SWuq6jrrEgLbNSVdqfJRJRvwrFcSq",
+    "collectionMint": "GhTrwkDGVAKB9dAsTviRquZg3fJcwyztXVdv34nbuJ1q"
+  },
+  "items": {
+    "-1": {
+      "name": "Mi Colección (devnet)",
+      "image_hash": "bb01d295e8b60dd81ec852a2c892688ed0cf62107ec5429efa0aaf621e55c019",
+      "image_link": "https://gateway.irys.xyz/GEfk5rH5i3kXEDn4kDxJ3hJLT8Yrfk74FzzoW6ef3Dde?ext=png",
+      "metadata_hash": "d9503378cdb6002aa963f49bfa53bf9d070f3d8100b4eb8fcb4c6d8ea517a625",
+      "metadata_link": "https://gateway.irys.xyz/Cexaa8Uhfh9THnteSr7XXXAKCPG5GuDs3xoqbkMKMRJY",
+      "onChain": true
+    },
+    "0": {
+      "name": "Mi NFT #1 (devnet)",
+      "image_hash": "a48baa47ebe0d87af5609fb65ab00b1295784556bd541e81696e47413d260186",
+      "image_link": "https://gateway.irys.xyz/G2zuGnqHVjqbFVPQagaqQu6mZ4Q1VXt1jAFtVTKayv2G?ext=png",
+      "metadata_hash": "65c6dcdc702c09d3c4fb5c1f258951f75c12b5bbab34b516f80a8e751cb706ee",
+      "metadata_link": "https://gateway.irys.xyz/AuPqMowNZTtXBSi21VzGCyacgSSBHEGerABtFzVA7QD2",
+      "onChain": true
+    },
+    "1": {
+      "name": "Mi NFT #2 (devnet)",
+      "image_hash": "a48baa47ebe0d87af5609fb65ab00b1295784556bd541e81696e47413d260186",
+      "image_link": "https://gateway.irys.xyz/5CyfLLZr4sx3R3moT7z6UN8AYkV1DGhtT1GmxJL2F6JT?ext=png",
+      "metadata_hash": "a11c930c1f1e1149a01482f20defa64a79351562fdd41f0c9d4eea769df0db1c",
+      "metadata_link": "https://gateway.irys.xyz/5ohMjHYrEUtdrvnJGKWPT7cUhpnFgM8rz3ZPoqpoMjfx",
+      "onChain": true
+    },
+    "2": {
+      "name": "Mi NFT #3 (devnet)",
+      "image_hash": "a48baa47ebe0d87af5609fb65ab00b1295784556bd541e81696e47413d260186",
+      "image_link": "https://gateway.irys.xyz/qpQm47jEXQFoWpmbKQEroEmqTWF6ZTPuJ739bteU3Z8?ext=png",
+      "metadata_hash": "17d5ac7fc9610594526fe839adc99028aa9db010f9d68216ff88a9b47886fc4d",
+      "metadata_link": "https://gateway.irys.xyz/6rHGNBkvmmHQPVL5mBC3s38BHp6Hb7ERcUT24d46KPGp",
+      "onChain": true
+    },
+    "3": {
+      "name": "Mi NFT #4 (devnet)",
+      "image_hash": "a48baa47ebe0d87af5609fb65ab00b1295784556bd541e81696e47413d260186",
+      "image_link": "https://gateway.irys.xyz/8L619Xgm7sp8HbrAsDeJdoPSgnR5hrYAADSWm8mv3grc?ext=png",
+      "metadata_hash": "06fc01b11ed7167a50fec55a7a1790e57da91276b96fb704c91a2493e1c50d7f",
+      "metadata_link": "https://gateway.irys.xyz/GmiBF3NdQvSouLag6GfBWB8y6skQDgNW5dg3hHRWWHMR",
+      "onChain": true
+    }
+  }
+}

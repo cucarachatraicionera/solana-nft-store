@@ -1,0 +1,12 @@
+{
+  "name": "Mi NFT #3 (devnet)",
+  "symbol": "MI",
+  "description": "NFT de prueba (devnet)",
+  "image": "2.png",
+  "seller_fee_basis_points": 500,
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "2.png", "type": "image/png" }]
+  }
+}

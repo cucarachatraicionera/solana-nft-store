@@ -1,0 +1,12 @@
+{
+  "name": "Mi Colección (devnet)",
+  "symbol": "MI",
+  "description": "Colección de prueba en devnet",
+  "image": "collection.png",
+  "seller_fee_basis_points": 500,
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [{ "uri": "collection.png", "type": "image/png" }]
+  }
+}
